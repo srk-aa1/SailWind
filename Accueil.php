@@ -35,7 +35,7 @@
     </h1>
     <h2> la mer </h2>
     <video controls class="intro-video">
-      <source src="assets/presentation.mp4" type="video/mp4">
+      <source src="Vidéo.mov">
     </video>
   </section>
 
